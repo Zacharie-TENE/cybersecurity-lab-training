@@ -1,2 +1,2 @@
-# web
-web-app for n7 project
+# cybersecurity-lab-training
+repository for personnal project about security

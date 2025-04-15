@@ -1,2 +1,2 @@
 # cybersecurity-lab-training
-repository for personnal project about security
+repository for personal project about security
